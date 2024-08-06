@@ -1,10 +1,8 @@
-### Hi there! <a href="https://github.com/rasulomaroff"><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="5%"></a>
+### Hi!
 
-#### Look at my projects!
+##### If you happen to use Neovim, take a look at my plugins :)
 
-##### Neovim
-
--  [telepath.nvim](https://github.com/rasulomaroff/telepath.nvim) - motion plugin that allows to operate on remote text-objects
--  [reactive.nvim](https://github.com/rasulomaroff/reactive.nvim) - reactive UI plugin that brings interactivity to your neovim experience
--  [cmp-bufname](https://github.com/rasulomaroff/cmp-bufname) - a source of opened buffers' names for completion 
+-  [telepath.nvim](https://github.com/rasulomaroff/telepath.nvim) - motion plugin that allows to operate on text-objects remotely
+-  [reactive.nvim](https://github.com/rasulomaroff/reactive.nvim) - this plugin allows you to apply highlights dynamically based on different modes, operators, and window states
+-  [cmp-bufname](https://github.com/rasulomaroff/cmp-bufname) - a source of opened buffers (files) names for completion 
 -  [cursor.nvim](https://github.com/rasulomaroff/cursor.nvim) - a simple utility that provides the easier way of configuring cursors
