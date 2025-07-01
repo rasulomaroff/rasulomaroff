@@ -10,4 +10,4 @@
 #### Also, check out npm libraries for React:
 
 - [react-rv](https://github.com/rasulomaroff/react-rv) - lightweight library for using reactive variables
-- [@evit](https://github.com/rasulomaroff/evit) - evit = event it, stateless events for react with hooks
+- [evit](https://github.com/rasulomaroff/evit) - evit = event it, stateless events for react with hooks
